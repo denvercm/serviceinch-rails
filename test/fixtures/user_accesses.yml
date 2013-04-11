@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  comments: MyString
+  manage_tickets: false
+  manage_customers: false
+
+two:
+  comments: MyString
+  manage_tickets: false
+  manage_customers: false
